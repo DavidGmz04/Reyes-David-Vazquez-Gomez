@@ -1,0 +1,8 @@
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\bin\Debug\apptec2.exe.config
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\bin\Debug\apptec2.exe
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\bin\Debug\apptec2.pdb
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\obj\Debug\apptec2.csproj.AssemblyReference.cache
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\obj\Debug\apptec2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\obj\Debug\apptec2.csproj.CoreCompileInputs.cache
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\obj\Debug\apptec2.exe
+C:\Users\ALFREDO GOMEZ\source\repos\apptec2\obj\Debug\apptec2.pdb
